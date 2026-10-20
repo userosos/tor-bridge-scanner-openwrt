@@ -10,3 +10,6 @@ wget https://github.com/userosos/tor-bridge-scanner-openwrt/blob/main/bench_brid
 ```
 chmod +x /tmp/bench_bridges.sh
 ```
+```
+/tmp/bench_bridges.sh
+```
